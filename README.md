@@ -7,7 +7,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/TailwindCSS.png" width="48" height="48" alt="C#" />
+        <img src="./img/tailwindCss.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
