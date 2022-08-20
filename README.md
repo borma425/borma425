@@ -1,5 +1,5 @@
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">technical skills</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -7,7 +7,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/TailwindCSS.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
