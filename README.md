@@ -1,117 +1,117 @@
 
-<h2 align="left" id="macropower-tech">technical skills</h2>
+<h2 align="left" id="macropower-tech">Technical skills *(Core And Familiar)* </h2>
 
 > Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
+      <a href="#borma-code">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/jquery.svg" width="48" height="48" alt="Python" />
+        <img src="./img/jquery.svg" width="48" height="48" alt="jquery" />
       </a>
       <br>Jquery
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/json.svg" width="48" height="48" alt="Golang" />
+      <a href="#borma-code">
+        <img src="./img/json.svg" width="48" height="48" alt="json" />
       </a>
       <br>Json
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/ajax.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#borma-code">
+        <img src="./img/ajax.svg" width="48" height="48" alt="ajax" />
       </a>
       <br>Ajax
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/regex.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#borma-code">
+        <img src="./img/regex.svg" width="48" height="48" alt="regex" />
       </a>
       <br>Regex
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/markdown.svg" width="48" height="48" alt="JavaScript" />
+      <a href="#borma-code">
+        <img src="./img/markdown.svg" width="48" height="48" alt="markdown" />
       </a>
       <br>Markdown
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/git.svg" width="48" height="48" alt="React" />
+      <a href="#borma-code">
+        <img src="./img/git.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bitbucket.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#borma-code">
+        <img src="./img/bitbucket.svg" width="48" height="48" alt="bitbucket" />
       </a>
       <br>bitbucket
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/alpinejs.svg" width="48" height="48" alt="Sass" />
+      <a href="#borma-code">
+        <img src="./img/alpinejs.svg" width="48" height="48" alt="alpinejs" />
       </a>
       <br>alpine.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/php.svg" width="48" height="48" alt="Docker" />
+      <a href="#borma-code">
+        <img src="./img/php.svg" width="48" height="48" alt="php" />
       </a>
       <br>Php
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#borma-code">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>MySQL
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/laravel.svg" width="48" height="48" alt="Debian" />
+      <a href="#borma-code">
+        <img src="./img/laravel.svg" width="48" height="48" alt="laravel" />
       </a>
       <br>Laravel
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/wordpress.svg" width="48" height="48" alt="RHEL" />
+      <a href="#borma-code">
+        <img src="./img/wordpress.svg" width="48" height="48" alt="wordpress" />
       </a>
       <br>wordpress Dev
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/blogger.svg" width="48" height="48" alt="Powershell" />
+      <a href="#borma-code">
+        <img src="./img/blogger.svg" width="48" height="48" alt="blogger" />
       </a>
       <br>blogger Dev
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/web-hosting.svg" width="48" height="48" alt="MySQL" />
+      <a href="#borma-code">
+        <img src="./img/web-hosting.svg" width="48" height="48" alt="web hosting" />
       </a>
       <br>web hosting
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/seo.svg" width="48" height="48" alt="Grafana" />
+      <a href="#borma-code">
+        <img src="./img/seo.svg" width="48" height="48" alt="seo" />
       </a>
       <br>Full Stack Seo
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/tailwindCss.svg" width="48" height="48" alt="Prometheus" />
+      <a href="#borma-code">
+        <img src="./img/tailwindCss.svg" width="48" height="48" alt="tailwindCss" />
       </a>
       <br>tailwindCss
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/chrome-Extensions.svg" width="48" height="48" alt="Prometheus" />
+      <a href="#borma-code">
+        <img src="./img/chrome-Extensions.svg" width="48" height="48" alt="chrome-Extensions" />
       </a>
       <br>Chrome Extensions
     </td>
@@ -119,48 +119,53 @@
   </tr>
    <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/linux.svg" width="48" height="48" alt="Docker" />
+      <a href="#borma-code">
+        <img src="./img/linux.svg" width="48" height="48" alt="linux" />
       </a>
       <br>Unix/Linux
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/bash.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#borma-code">
+        <img src="./img/bash.svg" width="48" height="48" alt="bash" />
       </a>
       <br>bash script
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#borma-code">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>debian distros
+      <br>Debian distros
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/hackerMan.svg" width="48" height="48" alt="RHEL" />
+      <a href="#borma-code">
+        <img src="./img/hackerMan.svg" width="48" height="48" alt="Cyber security" />
       </a>
       <br> Cyber security
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="Powershell" />
+      <a href="#borma-code">
+        <img src="./img/python.svg" width="48" height="48" alt="python" />
       </a>
       <br>Python
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/arduino.svg" width="48" height="48" alt="MySQL" />
+      <a href="#borma-code">
+        <img src="./img/arduino.svg" width="48" height="48" alt="arduino" />
       </a>
       <br>arduino
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/ruby.svg" width="48" height="48" alt="Grafana" />
+      <a href="#borma-code">
+        <img src="./img/ruby.svg" width="48" height="48" alt="ruby" />
       </a>
       <br>Ruby
     </td>
-
+    <td align="center" width="96">
+      <a href="#borma-code">
+        <img src="./img/web-scraping.svg" width="48" height="48" alt="web scrapin" />
+      </a>
+      <br>Web scraping
+    </td>
   </tr>
 </table>
 
