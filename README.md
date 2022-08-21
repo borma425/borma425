@@ -203,6 +203,17 @@
 
 
 
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
+
+[![Facebook](./img/facebook-icon.svg)](https://www.facebook.com/borma425/)
+[![Twitter](./img/twitter-icon.svg)](https://twitter.com/borma425)
+[![Github](./img/github-icon.svg)](https://github.com/borma425)
+[![Stack Overflow](./img/stackoverflow-icon.svg)](https://stackoverflow.com/users/14592575/borma425)
+[![Linkedin](./img/linkedin-icon.svg)](https://www.linkedin.com/in/sahinur/)
+
+
+<img src="./img/Rise-Up-Community.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 
 
