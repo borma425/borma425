@@ -203,7 +203,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
+## <img src="./img/giphy-network.webp" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
 
 [![Facebook](./img/facebook-icon.svg)](https://www.facebook.com/borma425/)
 [![Twitter](./img/twitter-icon.svg)](https://twitter.com/borma425)
