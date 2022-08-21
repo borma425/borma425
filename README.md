@@ -1,7 +1,31 @@
 
+
+<!-- welcome message -->
+<h2>Assalamu Alaikum, I am Yehia Elborma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
+
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+
+
+## I am a autonomy software researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🔭 These days I'm working on different kinds of projects!
+- ⚡ I just want learn more about code 
+- 🌱 I’m currently learning **What i Need** 
+- 🎯 2023 Goals: React js, Web 3.0 , Flutter , NodeJs ,....
+- ⚡ Fun Fact: I want to learn everything 🤣
+
+
+
+
+
+
+
+
+
+
 <h2 align="left" id="macropower-tech">Technical skills *(Core And Familiar)* </h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, programmin languages / DSLS , and other things that I like to work with.
 
 <table>
   <tr>
@@ -169,4 +193,17 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
