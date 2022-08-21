@@ -7,57 +7,57 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/tailwindCss.svg" width="48" height="48" alt="C#" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/jquery.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>Jquery
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/json.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>Json
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/ajax.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>Ajax
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/regex.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Regex
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/markdown.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>Markdown
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/git.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/chrome-Extensions.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br>chrome Extensions
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/alpinejs.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br>alpine.js
     </td>
   </tr>
   <tr>
