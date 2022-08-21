@@ -49,9 +49,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/chrome-Extensions.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/bitbucket.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>chrome Extensions
+      <br>bitbucket
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -63,58 +63,104 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/php.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
+      <br>Php
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Kubernetes
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/laravel.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/wordpress.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>wordpress Dev
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/blogger.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>blogger Dev
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/web-hosting.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>web hosting
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/seo.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Full Stack Seo
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/tailwindCss.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>tailwindCss
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/chrome-Extensions.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Chrome Extensions
+    </td>
+
+  </tr>
+   <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/linux.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Unix/Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/bash.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>bash script
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>debian distros
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./img/hackerMan.svg" width="48" height="48" alt="RHEL" />
       </a>
-      <br>RHEL
+      <br> Cyber security
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./img/python.svg" width="48" height="48" alt="Powershell" />
       </a>
-      <br>Powershell
+      <br>Python
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/arduino.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MySQL
+      <br>arduino
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/ruby.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Ruby
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
+
   </tr>
 </table>
 
