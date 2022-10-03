@@ -6,7 +6,7 @@
 
 
 
-## I am a autonomy software researcher <img src="./img/giphy-cat-keyTyper.webp" width="30">
+## I am a Independent researcher <img src="./img/giphy-cat-keyTyper.webp" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
 - ⚡ I just want learn more about code 
