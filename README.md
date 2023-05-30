@@ -209,7 +209,7 @@
 [![Twitter](./img/twitter-icon.svg)](https://twitter.com/borma425)
 [![Github](./img/github-icon.svg)](https://github.com/borma425)
 [![Stack Overflow](./img/stackoverflow-icon.svg)](https://stackoverflow.com/users/14592575/borma425)
-[![Linkedin](./img/linkedin-icon.svg)](https://www.linkedin.com/in/sahinur/)
+[![Linkedin](./img/linkedin-icon.svg)](https://www.linkedin.com/in/borma425/)
 
 
 <img src="./img/Rise-Up-Community.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
